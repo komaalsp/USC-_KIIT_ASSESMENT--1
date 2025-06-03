@@ -1,17 +1,7 @@
 # USC-_KIIT_ASSESMENT--1
-Project Description
-This project is a simple Web Developer Portfolio landing page designed to resemble the reference image provided (see below). The page showcases a clean and modern UI with a dark theme, a profile image, a navigation menu, and a highlighted section introducing the developer.
+Website Cloning Based on Reference Image
 
-Reference Design
-
-✅ Features
-Responsive layout
-Dark theme UI
-Developer intro section
-Navigation bar (Home, About, Services, Blog, More, Contact)
-"Download CV" button
-🛠️ Technologies Used
-HTML
-CSS
-💻 OUTPUT
-output Design
+Task Description:
+The project is aimed at creating a clone of a website based on the provided reference image. The task involved carefully observing the design, layout, color scheme, typography, and other visual elements displayed in the image and reproducing them using HTML and CSS. The objective is to match the visual appearance and structural layout of the original design as accurately as possible.
+Image provided:![heheho](https://github.com/user-attachments/assets/bee25b3a-56cb-42be-8c2a-6ad089fb9db8)
+Image produced:![image](https://github.com/user-attachments/assets/c0880580-a396-4559-9224-70248b3d8689)

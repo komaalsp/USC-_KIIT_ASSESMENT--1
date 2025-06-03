@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    display:inline;
+    margin: 5px;
+    padding: 8px;
+}
+#hm{
+    margin-left: 300px;
+}
+#immg{
+     position: fixed;
+    height: 10vh;
+    width: 5vw;
+    right: 950px;
+    left: 260px;
+    top: 10px;
+}
+button{
+    margin-left: 1100px;
+    padding-top: 10px;
+}
+#img{
+    position: fixed;
+    height: auto;
+    width: 26vw;
+    right: 950px;
+    left: 5px;
+    top: 35%;
+}
+h4{
+    margin-left: 650px;
+    margin-top: 200px;
+    color: aquamarine;
+}
+h3{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: 100;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
+p{
+    margin-left: 650px;
+    margin-top: 10px;
+}
+#cv{
+    margin-left: 650px;
+    margin-top: 10px;
+    background-color: aquamarine;
+}
